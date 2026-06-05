@@ -4,7 +4,7 @@ A simple Node.js application that generates QR codes from user-provided URLs. Th
 
 ## 📸 Preview
 
-### Generated QR Code
+### Generated QR Code 
 
 ![QR Code](Screenshots/Screenshot1.png)
 
